@@ -5,3 +5,5 @@ With thousands of games released each year on various platforms, the main questi
 A GUI-based Java application that connects to a video game database to insert tuples and run queries from a list. Video game database was created using MySQL. The database was populated with real data; missing attributes were randomly generated. Users can choose to display the results of the queries or save the results to a file.
 
 ![image](https://github.com/jflores106/GameDatabase/assets/59906440/75a90626-6a80-4f39-a657-47681512036e)
+
+![image](https://github.com/jflores106/GameDatabase/assets/59906440/f0e2141f-a599-419f-98c0-0e1bffe532af)
